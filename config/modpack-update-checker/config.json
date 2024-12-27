@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.0.0",
+  "modpackName": "Yalta",
+  "modpackAuthor": "Palace",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://github.com/1Laggy1/ChristmasMods",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
