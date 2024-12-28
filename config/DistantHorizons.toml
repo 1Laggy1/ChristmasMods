@@ -501,7 +501,7 @@ _version = 2
 			[client.advanced.graphics.genericRendering]
 				#
 				# If true LOD clouds will be rendered.
-				enableCloudRendering = true
+				enableCloudRendering = false
 				#
 				# If true LOD beacon beams will be rendered.
 				enableBeaconRendering = true
